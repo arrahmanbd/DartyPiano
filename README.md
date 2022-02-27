@@ -1,2 +1,2 @@
-# Arushi
-Responsibe Website Arushi
+# Darty Piano Flutter Piano App
+Simple Piano app using Dart Flutter
