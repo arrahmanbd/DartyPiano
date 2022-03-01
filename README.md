@@ -20,7 +20,7 @@ Flutter
 ## Android App
 
 - Install Apk File
-[Click here](apk/apps.apk)
+[Click here](Apk/apps.apk)
 
 
 Updated Flutter 2.10.2
