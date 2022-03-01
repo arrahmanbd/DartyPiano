@@ -14,13 +14,15 @@ Flutter
 
 
        Dice                |          Xylophone        |           Ask ME
-:-------------------------:|:-------------------------:|:-------------------------:
-![](Screens/Screen2.png)|![](Screens/Screen1.png)|![](Screens/Screen3.png)
+
+![](Screens/Screen2.png)
+![](Screens/Screen1.png)
+![](Screens/Screen3.png)
 
 ## Android App
 
 - Install Apk File
-[Click here](3dot_magic ball-xylophone-dice.apk)
+[Click here](./3dot_magic ball-xylophone-dice.apk)
 
 
 Updated Flutter 2.10.2
