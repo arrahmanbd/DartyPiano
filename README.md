@@ -14,7 +14,7 @@ Flutter
 
 
        Dice                |          Xylophone        |           Ask ME
-:-------------------------:|:-------------------------:|:-------------------------:
+
 ![](Screens/Screen2.png)|![](Screens/Screen1.png)|![](Screens/Screen3.png)
 
 ## Android App
