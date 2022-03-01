@@ -13,16 +13,18 @@ Flutter
 ## Android Screenshots
 
 
-       Dice                |          Xylophone        |           Ask ME
+       Dice                |          Xylophone          
+:-------------------------:|:-------------------------:|
+![](Screens/Screen2.png)|![](Screens/Screen1.png)
 
-![](Screens/Screen2.png)
-![](Screens/Screen1.png)
+|Ask ME
 ![](Screens/Screen3.png)
 
 ## Android App
 
 - Install Apk File
-[Click here](./3dot_magic ball-xylophone-dice.apk)
+
+[click here]("3dot_magic ball-xylophone-dice.apk")
 
 
 Updated Flutter 2.10.2
